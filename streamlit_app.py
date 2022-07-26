@@ -9,7 +9,7 @@ streamlit.title('My Parents New Healthy Diner')
 streamlit.header('🥑Breakfast Menu')
 streamlit.text('🥑Omega 3 and Blueberry Oatmeal')
 streamlit.text('🥑Kale....')
-streamlit.text('🥑Head-Boiled...)
+streamlit.text('🥑Head-Boiled...')
                
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
                
